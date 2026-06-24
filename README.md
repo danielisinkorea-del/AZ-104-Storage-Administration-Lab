@@ -23,7 +23,10 @@ I configured secure Azure Storage for a small business environment, including pr
 - Region: Central US
 
 ## Validation
-Include screenshots and short explanations.
+Included screenshots and short explanations.
 
 ## Cleanup
 Resources were deleted after validation to avoid ongoing cost.
+
+## The Main Lesson
+Deploying compute is only half the job. An Azure administrator also has to think about availability, scaling, monitoring, backup, restore options, and cleanup.
